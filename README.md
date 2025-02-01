@@ -13,4 +13,4 @@ This is a **Flutter-based chat application frontend**, designed with a clean and
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/flutter-chat-app.git  
+   https://github.com/FingersClose/whatsapp-clone.git 
